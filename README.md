@@ -3,7 +3,7 @@
 JVembed est un script qui permet d'intégrer dans la page tous les liens vers des images ( png, jpg, jpeg, gif) et vers des webm.
 
 
-![Demo](https://i.imgur.com/sgpFDLs.gif)
+[Gif Exemple](https://i.imgur.com/sgpFDLs.gif)
 
 ## Installation
 
