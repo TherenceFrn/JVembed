@@ -5,6 +5,9 @@ JVembed est un script qui permet d'intégrer dans la page tous les liens vers de
 
 [Gif Exemple](https://i.imgur.com/sgpFDLs.gif)
 
+[Avant JVembed](file:///C:/Users/there/OneDrive/Documents/ShareX/Screenshots/2019-05/2019-05-16_22-30-03.png)
+[Après JVembed](https://i.imgur.com/K4AKXJD.gifv)
+
 ## Installation
 
 Il vous faut une extension qui permet d'installer des script
