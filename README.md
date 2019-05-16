@@ -32,8 +32,7 @@ exemple :
 et et le plugin 'USI' : https://addons.mozilla.org/fr/android/addon/userunified-script-injector/?src=search
 (Si vous utilisez un autre navigateur cherchez un plugin de type Tampermonkey/greasemonkey sur Google et avec un peu de chance vous trouverez)
 
-ensuite il vous suffit de cliquer [ici](https://google.fr)
-le script est sur [https://openuserjs.org/](https://openuserjs.org/)
+ensuite il vous suffit de cliquer [ici](https://therencefrn.github.io/JVembed/script.user.js)
 
 ## Modifier le script
 
