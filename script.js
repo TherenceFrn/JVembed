@@ -9,7 +9,8 @@ var anywebM = /http[s]*:\/\/.+.\/.+.(webm)/; //tous les webms
 var anyimage = /http[s]*:\/\/.+.\/.+.(jpg|gif|png)/; //toutes les images
 
 // variable de la taille
-var taille = "25%";
+//var taille = "25%";
+var taille = "100%";
 
 var liens_hypertext = document.getElementsByClassName("xXx");
 
