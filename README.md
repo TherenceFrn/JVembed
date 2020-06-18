@@ -1,5 +1,2 @@
-# ArtStuff
-
-[Twitter](https://twitter.com/littletherence)
-
-[Anilist](https://anilist.co/user/Servietsky/)
+Petit script qui permet d'afficher les médias sur les forums de https://jeuxvideo.com/
+A utiliser avec Tampermonkey ou un equivalent
